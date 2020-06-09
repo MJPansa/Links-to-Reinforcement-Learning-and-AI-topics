@@ -1,3 +1,5 @@
+#### this fork is maintained by our discord bot
+
 # Links to Reinforcement Learning and other AI related topics
 
 - [General](General.md)
